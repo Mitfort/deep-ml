@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:29.868Z",
+  "generated_at": "2026-10-20T18:52:33.406Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -479,6 +479,69 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-08-22T12:34:26.109Z",
       "last_pushed_at": "2026-08-22T12:34:26.109Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-08-23T05:53:36.749Z",
+      "last_pushed_at": "2026-08-23T05:53:36.749Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-08-23T06:01:18.612Z",
+      "last_pushed_at": "2026-08-23T06:01:18.612Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-08-23T06:09:34.052Z",
+      "last_pushed_at": "2026-08-23T06:09:34.052Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-23T06:18:54.547Z",
+      "last_pushed_at": "2026-08-23T06:18:54.547Z",
+      "language": "python",
+      "lines": 29
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-08-23T06:23:42.941Z",
+      "last_pushed_at": "2026-08-23T06:23:42.941Z"
     }
   }
 }
