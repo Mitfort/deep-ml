@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:33.406Z",
+  "generated_at": "2026-10-20T18:52:35.756Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -542,6 +542,50 @@
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-08-23T06:23:42.941Z",
       "last_pushed_at": "2026-08-23T06:23:42.941Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-08-24T04:42:19.261Z",
+      "last_pushed_at": "2026-08-24T04:42:19.261Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-08-24T04:50:58.847Z",
+      "last_pushed_at": "2026-08-24T04:50:58.847Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-08-24T05:02:01.523Z",
+      "last_pushed_at": "2026-08-24T05:02:01.523Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-08-24T05:20:23.028Z",
+      "last_pushed_at": "2026-08-24T05:20:23.028Z"
     }
   }
 }
