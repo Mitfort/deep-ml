@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:35.756Z",
+  "generated_at": "2026-10-20T18:52:37.736Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -586,6 +586,45 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-08-24T05:20:23.028Z",
       "last_pushed_at": "2026-08-24T05:20:23.028Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-08-25T06:02:01.898Z",
+      "last_pushed_at": "2026-08-25T06:02:01.898Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-08-25T14:29:01.758Z",
+      "last_pushed_at": "2026-08-25T14:29:01.758Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-08-25T14:56:05.825Z",
+      "last_pushed_at": "2026-08-25T14:56:05.825Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
