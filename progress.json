@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:37.736Z",
+  "generated_at": "2026-10-20T18:52:39.806Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -625,6 +625,58 @@
       "last_pushed_at": "2026-08-25T14:56:05.825Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-08-26T07:49:16.131Z",
+      "last_pushed_at": "2026-08-26T07:49:16.131Z",
+      "language": "python",
+      "lines": 73
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-08-26T09:52:54.676Z",
+      "last_pushed_at": "2026-08-26T09:52:54.676Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-08-26T10:12:22.411Z",
+      "last_pushed_at": "2026-08-26T10:12:22.411Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2026-08-26T16:22:43.153Z",
+      "last_pushed_at": "2026-08-26T16:22:43.153Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
