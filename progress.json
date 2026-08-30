@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:39.806Z",
+  "generated_at": "2026-10-20T18:52:41.972Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -677,6 +677,74 @@
       "last_pushed_at": "2026-08-26T16:22:43.153Z",
       "language": "python",
       "lines": 14
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-08-30T09:00:24.116Z",
+      "last_pushed_at": "2026-08-30T09:00:24.116Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-08-30T09:12:24.568Z",
+      "last_pushed_at": "2026-08-30T09:12:24.568Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-08-30T09:19:13.890Z",
+      "last_pushed_at": "2026-08-30T09:19:13.890Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-08-30T09:28:21.744Z",
+      "last_pushed_at": "2026-08-30T09:28:21.744Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-08-30T09:44:11.560Z",
+      "last_pushed_at": "2026-08-30T09:44:11.560Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-08-30T17:46:14.090Z",
+      "last_pushed_at": "2026-08-30T17:46:14.090Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }
