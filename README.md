@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 37 problems · 0 labs · 24 math
+**62** solved · 38 problems · 0 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-08-22 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-01 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-08-26 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-08-31 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-23 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-10-01 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-26 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
