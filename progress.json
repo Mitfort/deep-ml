@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:44.535Z",
+  "generated_at": "2026-10-20T18:52:46.567Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -758,6 +758,32 @@
       "last_pushed_at": "2026-08-31T18:10:01.118Z",
       "language": "python",
       "lines": 68
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-09-01T10:12:30.972Z",
+      "last_pushed_at": "2026-09-01T10:12:30.972Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-09-01T10:21:17.097Z",
+      "last_pushed_at": "2026-09-01T10:21:17.097Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
