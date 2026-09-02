@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**64** solved · 40 problems · 0 labs · 24 math
+**69** solved · 44 problems · 0 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-01 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-08-26 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-08-31 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-02 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-02 | [solution](problems/0219-derivative-of-softmax) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-23 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-10-01 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-26 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
@@ -49,9 +51,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-01 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-20 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-08-25 | [solution](problems/0329-matrix-rank) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-02 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-08-30 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-23 | [solution](problems/0801-polynomial-regression-fit) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-22 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-02 | [solution](problems/0025-single-neuron-with-backpropagation) |
 
 ## Math
 
@@ -67,6 +71,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-22 | [solution](math/0007-vector-operations) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-20 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-30 | [solution](math/0004-backpropagation-and-the-chain-rule) |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-02 | [solution](math/0020-bayes-theorem) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-22 | [solution](math/0039-bias-variance-decomposition) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-22 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-23 | [solution](math/0011-determinants-and-trace) |
