@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:48.370Z",
+  "generated_at": "2026-10-20T18:53:08.934Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -847,6 +847,76 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-09-02T16:43:03.478Z",
       "last_pushed_at": "2026-09-02T16:43:03.478Z"
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-09-03T05:24:35.887Z",
+      "last_pushed_at": "2026-09-03T05:24:35.887Z"
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-09-03T05:33:41.996Z",
+      "last_pushed_at": "2026-09-03T05:33:41.996Z"
+    },
+    "math:36": {
+      "kind": "math",
+      "id": "36",
+      "title": "Multivariate Gaussians",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/36",
+      "path": "math/0036-multivariate-gaussians",
+      "first_solved_at": "2026-09-03T08:19:57.811Z",
+      "last_pushed_at": "2026-09-03T08:19:57.811Z"
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-09-03T08:25:57.372Z",
+      "last_pushed_at": "2026-09-03T08:25:57.372Z"
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-09-03T13:51:23.273Z",
+      "last_pushed_at": "2026-09-03T13:51:23.273Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:180": {
+      "kind": "problem",
+      "id": "180",
+      "title": "Conditional Probability from Joint Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/180",
+      "path": "problems/0180-conditional-probability-from-joint-distribution",
+      "first_solved_at": "2026-09-03T13:54:49.473Z",
+      "last_pushed_at": "2026-09-03T13:54:49.473Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
