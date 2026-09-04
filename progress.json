@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:53:08.934Z",
+  "generated_at": "2026-10-20T18:53:11.335Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -917,6 +917,71 @@
       "last_pushed_at": "2026-09-03T13:54:49.473Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-09-04T09:44:04.880Z",
+      "last_pushed_at": "2026-09-04T09:44:04.880Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-09-04T09:48:08.115Z",
+      "last_pushed_at": "2026-09-04T09:48:08.115Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-09-04T09:50:23.829Z",
+      "last_pushed_at": "2026-09-04T09:50:23.829Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-09-04T09:53:49.886Z",
+      "last_pushed_at": "2026-09-04T09:53:49.886Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:182": {
+      "kind": "problem",
+      "id": "182",
+      "title": "Central Limit Theorem Simulation",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/182",
+      "path": "problems/0182-central-limit-theorem-simulation",
+      "first_solved_at": "2026-09-04T10:35:17.726Z",
+      "last_pushed_at": "2026-09-04T10:35:17.726Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
