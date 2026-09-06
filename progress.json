@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:53:13.678Z",
+  "generated_at": "2026-10-20T18:53:15.702Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1037,6 +1037,58 @@
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-09-05T14:28:57.936Z",
       "last_pushed_at": "2026-09-05T14:28:57.936Z"
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-06T05:04:44.200Z",
+      "last_pushed_at": "2026-09-06T05:04:44.200Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2026-09-06T05:29:10.287Z",
+      "last_pushed_at": "2026-09-06T05:29:10.287Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-09-06T05:57:04.586Z",
+      "last_pushed_at": "2026-09-06T05:57:04.586Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-09-06T17:55:44.500Z",
+      "last_pushed_at": "2026-09-06T17:55:44.500Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }

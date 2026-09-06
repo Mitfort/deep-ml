@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 51 problems · 0 labs · 34 math
+**89** solved · 55 problems · 0 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,8 +41,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-01 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-04 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-08-26 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-06 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-09-04 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-08-31 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-09-06 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-03 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-02 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-02 | [solution](problems/0219-derivative-of-softmax) |
@@ -56,6 +58,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-01 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-01 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-20 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-09-06 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-08-25 | [solution](problems/0329-matrix-rank) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-09-04 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-02 | [solution](problems/0313-numerical-gradient-checking) |
@@ -63,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-23 | [solution](problems/0801-polynomial-regression-fit) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-22 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-02 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-06 | [solution](problems/0201-qr-decomposition) |
 
 ## Math
 
