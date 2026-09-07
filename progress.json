@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:53:15.702Z",
+  "generated_at": "2026-10-20T18:56:58.223Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1089,6 +1089,91 @@
       "last_pushed_at": "2026-09-06T17:55:44.500Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-09-07T06:29:14.422Z",
+      "last_pushed_at": "2026-09-07T06:29:14.422Z",
+      "language": "python",
+      "lines": 52
+    },
+    "problem:311": {
+      "kind": "problem",
+      "id": "311",
+      "title": "Classify Critical Points Using Hessian Eigenvalues",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/311",
+      "path": "problems/0311-classify-critical-points-using-hessian-eigenvalues",
+      "first_solved_at": "2026-09-07T06:46:17.027Z",
+      "last_pushed_at": "2026-09-07T06:46:17.027Z",
+      "language": "python",
+      "lines": 27
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-09-07T07:04:37.984Z",
+      "last_pushed_at": "2026-09-07T07:04:37.984Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-09-07T07:09:52.373Z",
+      "last_pushed_at": "2026-09-07T07:09:52.373Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-09-07T14:21:39.994Z",
+      "last_pushed_at": "2026-09-07T14:21:39.994Z"
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-09-07T14:30:47.495Z",
+      "last_pushed_at": "2026-09-07T14:30:47.495Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-09-07T14:33:51.641Z",
+      "last_pushed_at": "2026-09-07T14:33:51.641Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
