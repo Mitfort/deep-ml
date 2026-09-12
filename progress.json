@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:56:58.223Z",
+  "generated_at": "2026-10-20T18:57:00.871Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1174,6 +1174,45 @@
       "last_pushed_at": "2026-09-07T14:33:51.641Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-09-12T10:15:55.722Z",
+      "last_pushed_at": "2026-09-12T10:15:55.722Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-09-12T10:30:45.845Z",
+      "last_pushed_at": "2026-09-12T10:30:45.845Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:1072": {
+      "kind": "problem",
+      "id": "1072",
+      "title": "Pairwise Cosine Similarity Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1072",
+      "path": "problems/1072-pairwise-cosine-similarity-matrix",
+      "first_solved_at": "2026-09-12T10:46:31.096Z",
+      "last_pushed_at": "2026-09-12T10:46:31.096Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
