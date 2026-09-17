@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:57:09.495Z",
+  "generated_at": "2026-10-20T18:57:11.649Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1224,6 +1224,82 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-09-13T12:03:07.606Z",
       "last_pushed_at": "2026-09-13T12:03:07.606Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-17T15:53:30.866Z",
+      "last_pushed_at": "2026-09-17T15:53:30.866Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-09-17T16:06:00.801Z",
+      "last_pushed_at": "2026-09-17T16:06:00.801Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-17T16:13:16.459Z",
+      "last_pushed_at": "2026-09-17T16:13:16.459Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-09-17T16:24:57.413Z",
+      "last_pushed_at": "2026-09-17T16:24:57.413Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-09-17T16:26:43.991Z",
+      "last_pushed_at": "2026-09-17T16:26:43.991Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-09-17T16:36:55.934Z",
+      "last_pushed_at": "2026-09-17T16:36:55.934Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
