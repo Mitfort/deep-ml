@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:57:11.649Z",
+  "generated_at": "2026-10-20T18:57:13.984Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1300,6 +1300,121 @@
       "last_pushed_at": "2026-09-17T16:36:55.934Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:847": {
+      "kind": "problem",
+      "id": "847",
+      "title": "Dummy Classifier Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/847",
+      "path": "problems/0847-dummy-classifier-baseline",
+      "first_solved_at": "2026-09-18T12:06:09.872Z",
+      "last_pushed_at": "2026-09-18T12:06:09.872Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:848": {
+      "kind": "problem",
+      "id": "848",
+      "title": "Dummy Regressor Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/848",
+      "path": "problems/0848-dummy-regressor-baseline",
+      "first_solved_at": "2026-09-18T12:12:45.037Z",
+      "last_pushed_at": "2026-09-18T12:12:45.037Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-18T12:16:50.805Z",
+      "last_pushed_at": "2026-09-18T12:16:50.805Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-09-18T14:10:13.346Z",
+      "last_pushed_at": "2026-09-18T14:10:13.346Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-09-18T14:36:15.884Z",
+      "last_pushed_at": "2026-09-18T14:36:15.884Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-09-18T15:14:55.922Z",
+      "last_pushed_at": "2026-09-18T15:14:55.922Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-09-18T15:26:30.297Z",
+      "last_pushed_at": "2026-09-18T15:26:30.297Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-09-18T15:27:43.256Z",
+      "last_pushed_at": "2026-09-18T15:27:43.256Z",
+      "language": "python",
+      "lines": 17
+    },
+    "math:40": {
+      "kind": "math",
+      "id": "40",
+      "title": "Logistic Regression as Maximum Likelihood",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/40",
+      "path": "math/0040-logistic-regression-as-maximum-likelihood",
+      "first_solved_at": "2026-09-18T15:50:10.033Z",
+      "last_pushed_at": "2026-09-18T15:50:10.033Z"
     }
   }
 }
