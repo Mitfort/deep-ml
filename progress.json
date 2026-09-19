@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:57:13.984Z",
+  "generated_at": "2026-10-20T18:57:16.495Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1415,6 +1415,123 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-18T15:50:10.033Z",
       "last_pushed_at": "2026-09-18T15:50:10.033Z"
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-09-19T08:36:39.296Z",
+      "last_pushed_at": "2026-09-19T08:36:39.296Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-09-19T16:32:31.630Z",
+      "last_pushed_at": "2026-09-19T16:32:31.630Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-19T16:33:46.787Z",
+      "last_pushed_at": "2026-09-19T16:33:46.787Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-19T16:38:39.813Z",
+      "last_pushed_at": "2026-09-19T16:38:39.813Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-09-19T16:41:07.738Z",
+      "last_pushed_at": "2026-09-19T16:41:07.738Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-09-19T16:44:56.745Z",
+      "last_pushed_at": "2026-09-19T16:44:56.745Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-09-19T16:51:00.550Z",
+      "last_pushed_at": "2026-09-19T16:51:00.550Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-09-19T16:53:00.462Z",
+      "last_pushed_at": "2026-09-19T16:53:00.462Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:849": {
+      "kind": "problem",
+      "id": "849",
+      "title": "Precision and Recall at Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/849",
+      "path": "problems/0849-precision-and-recall-at-threshold",
+      "first_solved_at": "2026-09-19T17:01:16.145Z",
+      "last_pushed_at": "2026-09-19T17:01:16.145Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
