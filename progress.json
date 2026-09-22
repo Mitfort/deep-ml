@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:33:05.959Z",
+  "generated_at": "2026-09-22T13:42:49.295Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -44,6 +44,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-22T10:27:14.519Z",
       "last_pushed_at": "2026-09-22T10:33:05.561Z"
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-09-22T13:42:49.523Z",
+      "last_pushed_at": "2026-09-22T13:42:49.523Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
