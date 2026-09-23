@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:09:01.063Z",
+  "generated_at": "2026-09-23T08:21:36.945Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -70,6 +70,19 @@
       "last_pushed_at": "2026-09-23T08:09:03.753Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:198": {
+      "kind": "problem",
+      "id": "198",
+      "title": "Implement Weight Decay as L2 Regularization",
+      "difficulty": "easy",
+      "category": "Regularization",
+      "url": "https://www.deep-ml.com/problems/198",
+      "path": "problems/0198-implement-weight-decay-as-l2-regularization",
+      "first_solved_at": "2026-09-23T08:21:39.519Z",
+      "last_pushed_at": "2026-09-23T08:21:39.519Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
