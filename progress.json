@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:03:41.310Z",
+  "generated_at": "2026-10-13T07:14:50.241Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -106,7 +106,7 @@
       "url": "https://www.deep-ml.com/problems/32",
       "path": "problems/0032-generate-sorted-polynomial-features",
       "first_solved_at": "2026-09-25T16:50:59.027Z",
-      "last_pushed_at": "2026-09-25T16:50:59.027Z",
+      "last_pushed_at": "2026-10-13T07:15:00.551Z",
       "language": "python",
       "lines": 32
     },
