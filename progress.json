@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:57:16.495Z",
+  "generated_at": "2026-10-20T18:57:19.024Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1223,7 +1223,7 @@
       "url": "https://www.deep-ml.com/math-problems/46",
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-09-13T12:03:07.606Z",
-      "last_pushed_at": "2026-09-13T12:03:07.606Z"
+      "last_pushed_at": "2026-10-20T18:57:19.023Z"
     },
     "math:30": {
       "kind": "math",
@@ -1234,7 +1234,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-17T15:53:30.866Z",
-      "last_pushed_at": "2026-09-17T15:53:30.866Z"
+      "last_pushed_at": "2026-10-20T18:57:19.023Z"
     },
     "problem:1058": {
       "kind": "problem",
@@ -1414,7 +1414,7 @@
       "url": "https://www.deep-ml.com/math-problems/40",
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-18T15:50:10.033Z",
-      "last_pushed_at": "2026-09-18T15:50:10.033Z"
+      "last_pushed_at": "2026-10-20T18:57:19.023Z"
     },
     "problem:104": {
       "kind": "problem",
