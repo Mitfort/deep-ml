@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 93 problems · 0 labs · 40 math
+**134** solved · 94 problems · 0 labs · 40 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-18 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-23 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-07 | [solution](problems/0205-entropy-cross-entropy) |
+| [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-10-30 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-10-01 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-26 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-25 | [solution](problems/0032-generate-sorted-polynomial-features) |
