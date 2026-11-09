@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:46:26.399Z",
+  "generated_at": "2026-11-09T16:26:58.173Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1727,6 +1727,19 @@
       "last_pushed_at": "2026-11-05T10:46:31.454Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:1717": {
+      "kind": "problem",
+      "id": "1717",
+      "title": "Feature Crosses for Categorical Inputs",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1717",
+      "path": "problems/1717-feature-crosses-for-categorical-inputs",
+      "first_solved_at": "2026-11-09T16:27:00.227Z",
+      "last_pushed_at": "2026-11-09T16:27:00.227Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
