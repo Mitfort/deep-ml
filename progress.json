@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:02:22.460Z",
+  "generated_at": "2026-11-11T13:27:27.283Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1803,6 +1803,19 @@
       "last_pushed_at": "2026-11-11T13:02:22.094Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:839": {
+      "kind": "problem",
+      "id": "839",
+      "title": "Cross-Validated Prediction with K-Fold Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/839",
+      "path": "problems/0839-cross-validated-prediction-with-k-fold-linear-regression",
+      "first_solved_at": "2026-11-11T13:27:26.968Z",
+      "last_pushed_at": "2026-11-11T13:27:26.968Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
