@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:41:38.124Z",
+  "generated_at": "2026-11-24T14:33:46.689Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1827,6 +1827,17 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-11-11T16:41:37.452Z",
       "last_pushed_at": "2026-11-11T16:41:37.452Z"
+    },
+    "math:73": {
+      "kind": "math",
+      "id": "73",
+      "title": "Standard Error and the Sampling Distribution of an Estimator",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/73",
+      "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
+      "first_solved_at": "2026-11-24T14:33:47.548Z",
+      "last_pushed_at": "2026-11-24T14:33:47.548Z"
     }
   }
 }
