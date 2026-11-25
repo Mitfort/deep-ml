@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:33:46.689Z",
+  "generated_at": "2026-11-25T17:31:12.401Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1838,6 +1838,19 @@
       "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
       "first_solved_at": "2026-11-24T14:33:47.548Z",
       "last_pushed_at": "2026-11-24T14:33:47.548Z"
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-11-25T17:31:12.502Z",
+      "last_pushed_at": "2026-11-25T17:31:12.502Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
